@@ -1,0 +1,10 @@
+# api key
+security.yaml
+
+# data
+raw_data/*
+trimmed_data/*
+
+# notebook
+*/**/00-BusStation-Dataset.ipynb
+*/**/legacy_draw_subway_graph.ipynb

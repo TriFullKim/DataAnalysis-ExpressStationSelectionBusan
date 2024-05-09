@@ -6,5 +6,6 @@ raw_data/*
 trimmed_data/*
 
 # notebook
+*/**/00-memo.ipynb
 */**/00-BusStation-Dataset.ipynb
 */**/legacy_draw_subway_graph.ipynb

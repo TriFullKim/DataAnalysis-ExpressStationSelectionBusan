@@ -9,3 +9,6 @@ trimmed_data/*
 */**/00-memo.ipynb
 */**/00-BusStation-Dataset.ipynb
 */**/legacy_draw_subway_graph.ipynb
+
+#Memo
+memo/*

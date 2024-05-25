@@ -91,7 +91,7 @@ def stationCode(_x, code_data: pd.DataFrame = pd.DataFrame(), return_mode="code"
     result = None
     if pd.DataFrame().__len__() == 0:
         try:
-            code_data = pd.read_csv(SUBWAY_CODE_PATH)
+            code_data = pd.read_json(SUBWAY_CODE_PATH)
         except:
             return FileNotFoundError
 
@@ -156,6 +156,7 @@ def df_div_DiffColName(
 
     else:
         assert False, NotImplementedError
+
 
 # import datetime
 def convert_to_year_and_day(date_str):

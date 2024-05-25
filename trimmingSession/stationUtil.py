@@ -20,7 +20,7 @@ EXCHANGE_RELATION = [
 def fn_export_subway_graph(_df):
     interval_time = _df
     subway_graph = interval_time.loc[
-        :, ["exchange", "startSc", "endSc", "stoppingTime", "time","dist"]
+        :, ["exchange", "startSc", "endSc", "stoppingTime", "time", "dist"]
     ]
     subway_graph = subway_graph.groupby(by=["startSc", "endSc", "exchange"]).sum()
     print(
@@ -46,6 +46,7 @@ def fn_export_exchange_station_index(idx):
     # This RETURN ( (환승여부,startSc,endSc)
     return exchange_relation_index
 
+
 # stationCode 입력하면, 호선으로 반환함.
 # 데이터 특성상 조건을 만듦
 def get_line(sCode_x):
@@ -59,18 +60,18 @@ def get_line(sCode_x):
         return 4
     else:
         assert False, "MUST sCode_x < 500 (4호선까지 존재 합니다.)"
-        
-        
+
+
 def line_range(sCode_x):
     line_num = get_line(sCode_x)
-    if line_num==1:
-        return range(0, 200)
-    elif line_num==2:
-        return range(200, 300)
-    elif line_num==3:
-        return range(300, 400)
-    elif line_num==4:
-        return range(400, 500)
+    if line_num == 1:
+        return range(95, 134 + 1)
+    elif line_num == 2:
+        return range(201, 243 + 1)
+    elif line_num == 3:
+        return range(301, 317 + 1)
+    elif line_num == 4:
+        return range(401, 414 + 1)
     else:
         assert False, "MUST sCode_x < 500 (4호선까지 존재 합니다.)"
 

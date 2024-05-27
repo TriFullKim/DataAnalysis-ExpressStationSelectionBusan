@@ -12,3 +12,6 @@ trimmed_data/*
 
 #Memo
 memo/*
+
+#csv
+**/*.csv

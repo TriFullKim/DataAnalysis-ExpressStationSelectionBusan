@@ -168,3 +168,27 @@ def calc_line_speed(line_num: int, g_dist: WeightedGraph, g_time: WeightedGraph)
     return (g_dist.calculate_path_weight(path) * UNITFACTOR_P1KM_TO_1KM) / (
         g_time.calculate_path_weight(path) * UNITFACTOR_1SEC_TO_1HOUR
     )
+
+
+def calc_line_spend_time(line_num: int, g_time: WeightedGraph):
+    path = []
+    """
+    calc_line_speed 표정속도 구하는 함수임.
+
+    Args:
+        line_num (int): 호선입력하세요
+        g_dist (WeightedGraph): dist graph 입력하세요
+        g_time (WeightedGraph): time graph 입력하세요
+
+    Returns:
+        float: 표정속도[km/h]
+    """
+    if line_num == 1:
+        path = [*range(95, 134 + 1)]
+    elif line_num == 2:
+        path = [*range(201, 243 + 1)]
+    elif line_num == 3:
+        path = [*range(301, 317 + 1)]
+    elif line_num == 4:
+        path = [*range(401, 414 + 1)]
+    return g_time.calculate_path_weight(path)

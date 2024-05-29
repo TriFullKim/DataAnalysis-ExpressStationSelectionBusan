@@ -142,10 +142,22 @@ def calc_total_path_weight(g: WeightedGraph, sCode_start, sCode_end):
     return g.calculate_path_weight(path) * weight
 
 
+def line_num_to_range(line_num: int):
+    path = []
+    if line_num == 1:
+        path = [*range(95, 134 + 1)]
+    elif line_num == 2:
+        path = [*range(201, 243 + 1)]
+    elif line_num == 3:
+        path = [*range(301, 317 + 1)]
+    elif line_num == 4:
+        path = [*range(401, 414 + 1)]
+    return path
+
+
 def calc_line_speed(line_num: int, g_dist: WeightedGraph, g_time: WeightedGraph):
     UNITFACTOR_P1KM_TO_1KM = 1 / 10
     UNITFACTOR_1SEC_TO_1HOUR = 1 / 3600
-    path = []
     """
     calc_line_speed 표정속도 구하는 함수임.
 
@@ -157,21 +169,13 @@ def calc_line_speed(line_num: int, g_dist: WeightedGraph, g_time: WeightedGraph)
     Returns:
         float: 표정속도[km/h]
     """
-    if line_num == 1:
-        path = [*range(95, 134 + 1)]
-    elif line_num == 2:
-        path = [*range(201, 243 + 1)]
-    elif line_num == 3:
-        path = [*range(301, 317 + 1)]
-    elif line_num == 4:
-        path = [*range(401, 414 + 1)]
+    path = line_num_to_range(line_num)
     return (g_dist.calculate_path_weight(path) * UNITFACTOR_P1KM_TO_1KM) / (
         g_time.calculate_path_weight(path) * UNITFACTOR_1SEC_TO_1HOUR
     )
 
 
 def calc_line_spend_time(line_num: int, g_time: WeightedGraph):
-    path = []
     """
     calc_line_speed 표정속도 구하는 함수임.
 
@@ -183,12 +187,5 @@ def calc_line_spend_time(line_num: int, g_time: WeightedGraph):
     Returns:
         float: 표정속도[km/h]
     """
-    if line_num == 1:
-        path = [*range(95, 134 + 1)]
-    elif line_num == 2:
-        path = [*range(201, 243 + 1)]
-    elif line_num == 3:
-        path = [*range(301, 317 + 1)]
-    elif line_num == 4:
-        path = [*range(401, 414 + 1)]
+    path = line_num_to_range(line_num)
     return g_time.calculate_path_weight(path)

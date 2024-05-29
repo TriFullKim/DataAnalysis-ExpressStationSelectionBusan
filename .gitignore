@@ -4,6 +4,7 @@ security.yaml
 # data
 raw_data/*
 trimmed_data/*
+database/*
 
 # notebook
 */**/00-memo.ipynb

@@ -1,20 +1,24 @@
 def make_graph_data():
-    from util import (
-        loadPickle,
-        PATH_WEIGHTED_MEAN_INTERVAL,
-        PATH_INTER_STATION_SPEND_TIME,
-    )
-    from stationUtil import fn_export_subway_graph
+    try:
+        from util import (
+            loadPickle,
+            PATH_WEIGHTED_MEAN_INTERVAL,
+            PATH_INTER_STATION_SPEND_TIME,
+        )
+        from stationUtil import fn_export_subway_graph
 
-    _, subway_graph = fn_export_subway_graph(loadPickle(PATH_INTER_STATION_SPEND_TIME))
+        _, subway_graph = fn_export_subway_graph(
+            loadPickle(PATH_INTER_STATION_SPEND_TIME)
+        )
 
-    interval = loadPickle(PATH_WEIGHTED_MEAN_INTERVAL)
-    new_subway_graph = {}
-    for index, value in subway_graph.items():
-        value["dispatchingTime"] = interval[index[0]]
-        new_subway_graph[index] = value
-
-    return new_subway_graph
+        interval = loadPickle(PATH_WEIGHTED_MEAN_INTERVAL)
+        new_subway_graph = {}
+        for index, value in subway_graph.items():
+            value["dispatchingTime"] = interval[index[0]]
+            new_subway_graph[index] = value
+        return new_subway_graph
+    except:
+        return None
 
 
 new_subway_graph = make_graph_data()
@@ -90,6 +94,8 @@ class WeightedGraph:
 
 # Draw Graph
 def time_weight_graph(exclude_list: list = [], new_subway_graph=new_subway_graph):
+    assert new_subway_graph != None
+
     graph = WeightedGraph()
     for index, weights in new_subway_graph.items():
         v1, v2, isTransfer = index
@@ -114,6 +120,8 @@ def time_weight_graph(exclude_list: list = [], new_subway_graph=new_subway_graph
 
 
 def dist_weight_graph(new_subway_graph=new_subway_graph):
+    assert new_subway_graph != None
+
     graph = WeightedGraph()
     for index, weights in new_subway_graph.items():
         v1, v2, _ = index

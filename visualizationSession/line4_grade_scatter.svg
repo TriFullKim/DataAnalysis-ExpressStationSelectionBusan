@@ -1,0 +1,1190 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="460.8pt" height="345.6pt" viewBox="0 0 460.8 345.6" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2024-06-01T21:48:06.355279</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.8.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 345.6 
+L 460.8 345.6 
+L 460.8 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 57.6 307.584 
+L 343.296 307.584 
+L 343.296 41.472 
+L 57.6 41.472 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path id="C0_0_bed1211cb1" d="M 0 2.236068 
+C 0.593012 2.236068 1.161816 2.000462 1.581139 1.581139 
+C 2.000462 1.161816 2.236068 0.593012 2.236068 -0 
+C 2.236068 -0.593012 2.000462 -1.161816 1.581139 -1.581139 
+C 1.161816 -2.000462 0.593012 -2.236068 0 -2.236068 
+C -0.593012 -2.236068 -1.161816 -2.000462 -1.581139 -1.581139 
+C -2.000462 -1.161816 -2.236068 -0.593012 -2.236068 0 
+C -2.236068 0.593012 -2.000462 1.161816 -1.581139 1.581139 
+C -1.161816 2.000462 -0.593012 2.236068 0 2.236068 
+z
+"/>
+    </defs>
+    <g clip-path="url(#pfbe8fad1ea)">
+     <use xlink:href="#C0_0_bed1211cb1" x="337.100183" y="120.526959" style="fill: #67001f; stroke: #67001f"/>
+    </g>
+    <g clip-path="url(#pfbe8fad1ea)">
+     <use xlink:href="#C0_0_bed1211cb1" x="179.746104" y="83.885031" style="fill: #67001f; stroke: #67001f"/>
+    </g>
+    <g clip-path="url(#pfbe8fad1ea)">
+     <use xlink:href="#C0_0_bed1211cb1" x="268.257773" y="47.243104" style="fill: #67001f; stroke: #67001f"/>
+    </g>
+    <g clip-path="url(#pfbe8fad1ea)">
+     <use xlink:href="#C0_0_bed1211cb1" x="120.738324" y="71.671055" style="fill: #67001f; stroke: #67001f"/>
+    </g>
+    <g clip-path="url(#pfbe8fad1ea)">
+     <use xlink:href="#C0_0_bed1211cb1" x="219.084624" y="102.205995" style="fill: #e58368; stroke: #e58368"/>
+    </g>
+    <g clip-path="url(#pfbe8fad1ea)">
+     <use xlink:href="#C0_0_bed1211cb1" x="248.588514" y="132.740935" style="fill: #e58368; stroke: #e58368"/>
+    </g>
+    <g clip-path="url(#pfbe8fad1ea)">
+     <use xlink:href="#C0_0_bed1211cb1" x="189.580734" y="157.168887" style="fill: #f6f7f7; stroke: #f6f7f7"/>
+    </g>
+    <g clip-path="url(#pfbe8fad1ea)">
+     <use xlink:href="#C0_0_bed1211cb1" x="160.076844" y="175.489851" style="fill: #f6f7f7; stroke: #f6f7f7"/>
+    </g>
+    <g clip-path="url(#pfbe8fad1ea)">
+     <use xlink:href="#C0_0_bed1211cb1" x="150.242214" y="193.810814" style="fill: #f6f7f7; stroke: #f6f7f7"/>
+    </g>
+    <g clip-path="url(#pfbe8fad1ea)">
+     <use xlink:href="#C0_0_bed1211cb1" x="81.399804" y="212.131778" style="fill: #68abd0; stroke: #68abd0"/>
+    </g>
+    <g clip-path="url(#pfbe8fad1ea)">
+     <use xlink:href="#C0_0_bed1211cb1" x="317.430923" y="242.666718" style="fill: #67001f; stroke: #67001f"/>
+    </g>
+    <g clip-path="url(#pfbe8fad1ea)">
+     <use xlink:href="#C0_0_bed1211cb1" x="278.092403" y="236.55973" style="fill: #e58368; stroke: #e58368"/>
+    </g>
+    <g clip-path="url(#pfbe8fad1ea)">
+     <use xlink:href="#C0_0_bed1211cb1" x="101.069064" y="267.09467" style="fill: #053061; stroke: #053061"/>
+    </g>
+    <g clip-path="url(#pfbe8fad1ea)">
+     <use xlink:href="#C0_0_bed1211cb1" x="278.092403" y="285.415634" style="fill: #e58368; stroke: #e58368"/>
+    </g>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m9540162be8" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m9540162be8" x="61.730545" y="307.584" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <!-- 0 -->
+      <g transform="translate(58.849295 321.654312) scale(0.1 -0.1)">
+       <defs>
+        <path id="PretendardGOV-Regular-30" d="M 1844 -63 
+Q 1359 -63 1018 187 
+Q 678 438 501 920 
+Q 325 1403 325 2088 
+L 325 2438 
+Q 325 3125 501 3606 
+Q 678 4088 1018 4338 
+Q 1359 4588 1844 4588 
+Q 2325 4588 2664 4338 
+Q 3003 4088 3179 3606 
+Q 3356 3125 3356 2438 
+L 3356 2088 
+Q 3356 1403 3179 920 
+Q 3003 438 2664 187 
+Q 2325 -63 1844 -63 
+z
+M 1844 431 
+Q 2813 431 2813 2081 
+L 2813 2438 
+Q 2813 4094 1844 4094 
+Q 1356 4094 1115 3681 
+Q 875 3269 875 2438 
+L 875 2081 
+Q 875 1256 1115 843 
+Q 1356 431 1844 431 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#PretendardGOV-Regular-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m9540162be8" x="116.804472" y="307.584" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <!-- 2 -->
+      <g transform="translate(113.923222 321.654312) scale(0.1 -0.1)">
+       <defs>
+        <path id="PretendardGOV-Regular-32" d="M 481 406 
+L 1956 2038 
+Q 2238 2350 2391 2550 
+Q 2544 2750 2623 2937 
+Q 2703 3125 2706 3331 
+Q 2703 3559 2592 3734 
+Q 2481 3909 2290 4004 
+Q 2100 4100 1863 4100 
+Q 1613 4100 1427 3995 
+Q 1241 3891 1139 3697 
+Q 1038 3503 1038 3250 
+L 500 3250 
+Q 500 3641 679 3945 
+Q 859 4250 1175 4419 
+Q 1491 4588 1881 4588 
+Q 2266 4588 2573 4420 
+Q 2881 4253 3054 3965 
+Q 3228 3678 3231 3331 
+Q 3228 3075 3139 2840 
+Q 3050 2606 2839 2317 
+Q 2628 2028 2238 1606 
+L 1250 538 
+L 1250 500 
+L 3306 500 
+L 3306 0 
+L 481 0 
+L 481 406 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#PretendardGOV-Regular-32"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m9540162be8" x="171.8784" y="307.584" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <!-- 4 -->
+      <g transform="translate(168.99715 321.654312) scale(0.1 -0.1)">
+       <defs>
+        <path id="PretendardGOV-Regular-34" d="M 231 1388 
+L 1994 4525 
+L 2550 4525 
+L 825 1456 
+L 825 1419 
+L 2313 1419 
+L 2313 2831 
+L 2844 2831 
+L 2844 1419 
+L 3450 1419 
+L 3450 925 
+L 2844 925 
+L 2844 0 
+L 2313 0 
+L 2313 925 
+L 231 925 
+L 231 1388 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#PretendardGOV-Regular-34"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m9540162be8" x="226.952328" y="307.584" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <!-- 6 -->
+      <g transform="translate(224.071078 321.654312) scale(0.1 -0.1)">
+       <defs>
+        <path id="PretendardGOV-Regular-36" d="M 1838 -63 
+Q 1416 -63 1064 131 
+Q 713 325 509 659 
+Q 306 994 306 1394 
+Q 306 1734 473 2104 
+Q 641 2475 1000 3006 
+L 2019 4525 
+L 2663 4525 
+L 1444 2713 
+L 1475 2688 
+Q 1550 2763 1694 2809 
+Q 1838 2856 2031 2856 
+Q 2419 2856 2728 2662 
+Q 3038 2469 3209 2134 
+Q 3381 1800 3381 1394 
+Q 3381 994 3175 659 
+Q 2969 325 2616 131 
+Q 2263 -63 1838 -63 
+z
+M 1844 431 
+Q 2131 431 2356 556 
+Q 2581 681 2706 906 
+Q 2831 1131 2831 1419 
+Q 2831 1706 2706 1932 
+Q 2581 2159 2356 2286 
+Q 2131 2413 1844 2413 
+Q 1556 2413 1329 2286 
+Q 1103 2159 976 1932 
+Q 850 1706 850 1419 
+Q 850 1131 976 906 
+Q 1103 681 1329 556 
+Q 1556 431 1844 431 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#PretendardGOV-Regular-36"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#m9540162be8" x="282.026255" y="307.584" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <!-- 8 -->
+      <g transform="translate(279.145005 321.654312) scale(0.1 -0.1)">
+       <defs>
+        <path id="PretendardGOV-Regular-38" d="M 1844 -63 
+Q 1394 -63 1042 100 
+Q 691 263 495 550 
+Q 300 838 300 1200 
+Q 300 1481 415 1728 
+Q 531 1975 731 2139 
+Q 931 2303 1175 2350 
+L 1175 2375 
+Q 959 2431 800 2578 
+Q 641 2725 553 2936 
+Q 466 3147 463 3388 
+Q 466 3728 644 4001 
+Q 822 4275 1136 4431 
+Q 1450 4588 1844 4588 
+Q 2231 4588 2543 4431 
+Q 2856 4275 3036 4001 
+Q 3216 3728 3219 3388 
+Q 3216 3147 3127 2936 
+Q 3038 2725 2878 2578 
+Q 2719 2431 2506 2375 
+L 2506 2350 
+Q 2750 2303 2950 2139 
+Q 3150 1975 3267 1728 
+Q 3384 1481 3388 1200 
+Q 3384 838 3187 550 
+Q 2991 263 2641 100 
+Q 2291 -63 1844 -63 
+z
+M 1844 431 
+Q 2144 431 2366 531 
+Q 2588 631 2706 811 
+Q 2825 991 2825 1231 
+Q 2825 1481 2698 1679 
+Q 2572 1878 2348 1989 
+Q 2125 2100 1844 2100 
+Q 1563 2100 1336 1987 
+Q 1109 1875 982 1678 
+Q 856 1481 863 1231 
+Q 856 994 975 812 
+Q 1094 631 1317 531 
+Q 1541 431 1844 431 
+z
+M 1844 2575 
+Q 2081 2575 2270 2670 
+Q 2459 2766 2564 2941 
+Q 2669 3116 2669 3344 
+Q 2669 3569 2564 3741 
+Q 2459 3913 2271 4006 
+Q 2084 4100 1844 4100 
+Q 1597 4100 1408 4006 
+Q 1219 3913 1116 3741 
+Q 1013 3569 1013 3344 
+Q 1013 3116 1119 2941 
+Q 1225 2766 1414 2670 
+Q 1603 2575 1844 2575 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#PretendardGOV-Regular-38"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m9540162be8" x="337.100183" y="307.584" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <!-- 10 -->
+      <g transform="translate(331.337683 321.654312) scale(0.1 -0.1)">
+       <defs>
+        <path id="PretendardGOV-Regular-31" d="M 2163 456 
+L 3144 456 
+L 3144 0 
+L 569 0 
+L 569 456 
+L 1600 456 
+L 1600 3938 
+L 1575 3938 
+L 569 3269 
+L 569 3844 
+L 1600 4525 
+L 2163 4525 
+L 2163 456 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#PretendardGOV-Regular-31"/>
+       <use xlink:href="#PretendardGOV-Regular-30" x="57.617188"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_7">
+     <!-- FLUX -->
+     <g transform="translate(188.401125 334.716812) scale(0.1 -0.1)">
+      <defs>
+       <path id="PretendardGOV-Regular-46" d="M 500 4525 
+L 3225 4525 
+L 3225 4025 
+L 1063 4025 
+L 1063 2513 
+L 3019 2513 
+L 3019 2019 
+L 1063 2019 
+L 1063 0 
+L 500 0 
+L 500 4525 
+z
+" transform="scale(0.015625)"/>
+       <path id="PretendardGOV-Regular-4c" d="M 500 4525 
+L 1063 4525 
+L 1063 500 
+L 3163 500 
+L 3163 0 
+L 500 0 
+L 500 4525 
+z
+" transform="scale(0.015625)"/>
+       <path id="PretendardGOV-Regular-55" d="M 4025 4525 
+L 4025 1531 
+Q 4025 1069 3806 701 
+Q 3588 334 3188 126 
+Q 2788 -81 2263 -81 
+Q 1738 -81 1338 126 
+Q 938 334 719 701 
+Q 500 1069 500 1531 
+L 500 4525 
+L 1063 4525 
+L 1063 1575 
+Q 1063 1247 1208 990 
+Q 1353 734 1625 589 
+Q 1897 444 2263 444 
+Q 2631 444 2901 589 
+Q 3172 734 3317 990 
+Q 3463 1247 3463 1575 
+L 3463 4525 
+L 4025 4525 
+z
+" transform="scale(0.015625)"/>
+       <path id="PretendardGOV-Regular-58" d="M 1938 2656 
+L 1975 2656 
+L 3131 4525 
+L 3794 4525 
+L 2375 2263 
+L 3794 0 
+L 3131 0 
+L 1975 1831 
+L 1938 1831 
+L 781 0 
+L 119 0 
+L 1575 2263 
+L 119 4525 
+L 788 4525 
+L 1938 2656 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#PretendardGOV-Regular-46"/>
+      <use xlink:href="#PretendardGOV-Regular-4c" x="55.664062"/>
+      <use xlink:href="#PretendardGOV-Regular-55" x="108.984375"/>
+      <use xlink:href="#PretendardGOV-Regular-58" x="179.6875"/>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_7">
+      <defs>
+       <path id="m5f67665d2d" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m5f67665d2d" x="57.6" y="303.736598" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <!-- 0 -->
+      <g transform="translate(44.8375 307.271754) scale(0.1 -0.1)">
+       <use xlink:href="#PretendardGOV-Regular-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m5f67665d2d" x="57.6" y="252.437899" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <!-- 2 -->
+      <g transform="translate(44.8375 255.973055) scale(0.1 -0.1)">
+       <use xlink:href="#PretendardGOV-Regular-32"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#m5f67665d2d" x="57.6" y="201.1392" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <!-- 4 -->
+      <g transform="translate(44.8375 204.674356) scale(0.1 -0.1)">
+       <use xlink:href="#PretendardGOV-Regular-34"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m5f67665d2d" x="57.6" y="149.840501" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <!-- 6 -->
+      <g transform="translate(44.8375 153.375657) scale(0.1 -0.1)">
+       <use xlink:href="#PretendardGOV-Regular-36"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#m5f67665d2d" x="57.6" y="98.541802" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <!-- 8 -->
+      <g transform="translate(44.8375 102.076959) scale(0.1 -0.1)">
+       <use xlink:href="#PretendardGOV-Regular-38"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m5f67665d2d" x="57.6" y="47.243104" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <!-- 10 -->
+      <g transform="translate(39.075 50.77826) scale(0.1 -0.1)">
+       <use xlink:href="#PretendardGOV-Regular-31"/>
+       <use xlink:href="#PretendardGOV-Regular-30" x="57.617188"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_14">
+     <!-- IMPLICIT -->
+     <g transform="translate(33.082813 197.287375) rotate(-90) scale(0.1 -0.1)">
+      <defs>
+       <path id="PretendardGOV-Regular-49" d="M 250 4525 
+L 2425 4525 
+L 2425 4025 
+L 1631 4025 
+L 1631 500 
+L 2425 500 
+L 2425 0 
+L 250 0 
+L 250 500 
+L 1069 500 
+L 1069 4025 
+L 250 4025 
+L 250 4525 
+z
+" transform="scale(0.015625)"/>
+       <path id="PretendardGOV-Regular-4d" d="M 1175 4525 
+L 2700 800 
+L 2756 800 
+L 4281 4525 
+L 4956 4525 
+L 4956 0 
+L 4425 0 
+L 4425 3419 
+L 4381 3419 
+L 2975 0 
+L 2475 0 
+L 1069 3419 
+L 1031 3419 
+L 1031 0 
+L 500 0 
+L 500 4525 
+L 1175 4525 
+z
+" transform="scale(0.015625)"/>
+       <path id="PretendardGOV-Regular-50" d="M 500 4525 
+L 2038 4525 
+Q 2550 4525 2897 4337 
+Q 3244 4150 3412 3826 
+Q 3581 3503 3581 3088 
+Q 3581 2675 3412 2348 
+Q 3244 2022 2898 1833 
+Q 2553 1644 2044 1644 
+L 1063 1644 
+L 1063 0 
+L 500 0 
+L 500 4525 
+z
+M 2019 2144 
+Q 2531 2144 2778 2401 
+Q 3025 2659 3025 3088 
+Q 3025 3519 2778 3772 
+Q 2531 4025 2013 4025 
+L 1063 4025 
+L 1063 2144 
+L 2019 2144 
+z
+" transform="scale(0.015625)"/>
+       <path id="PretendardGOV-Regular-43" d="M 3588 3100 
+Q 3525 3403 3339 3620 
+Q 3153 3838 2889 3950 
+Q 2625 4063 2325 4063 
+Q 1909 4063 1579 3853 
+Q 1250 3644 1059 3237 
+Q 869 2831 869 2263 
+Q 869 1694 1059 1287 
+Q 1250 881 1579 672 
+Q 1909 463 2325 463 
+Q 2625 463 2887 573 
+Q 3150 684 3336 901 
+Q 3522 1119 3588 1419 
+L 4150 1419 
+Q 4069 966 3812 630 
+Q 3556 294 3170 115 
+Q 2784 -63 2325 -63 
+Q 1744 -63 1291 221 
+Q 838 506 581 1032 
+Q 325 1559 325 2263 
+Q 325 2966 581 3492 
+Q 838 4019 1291 4303 
+Q 1744 4588 2325 4588 
+Q 2781 4588 3167 4409 
+Q 3553 4231 3811 3895 
+Q 4069 3559 4150 3100 
+L 3588 3100 
+z
+" transform="scale(0.015625)"/>
+       <path id="PretendardGOV-Regular-54" d="M 250 4525 
+L 3663 4525 
+L 3663 4025 
+L 2244 4025 
+L 2244 0 
+L 1675 0 
+L 1675 4025 
+L 250 4025 
+L 250 4525 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#PretendardGOV-Regular-49"/>
+      <use xlink:href="#PretendardGOV-Regular-4d" x="41.894531"/>
+      <use xlink:href="#PretendardGOV-Regular-50" x="127.148438"/>
+      <use xlink:href="#PretendardGOV-Regular-4c" x="187.597656"/>
+      <use xlink:href="#PretendardGOV-Regular-49" x="240.917969"/>
+      <use xlink:href="#PretendardGOV-Regular-43" x="282.8125"/>
+      <use xlink:href="#PretendardGOV-Regular-49" x="352.148438"/>
+      <use xlink:href="#PretendardGOV-Regular-54" x="394.042969"/>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 57.6 307.584 
+L 57.6 41.472 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 343.296 307.584 
+L 343.296 41.472 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 57.6 307.584 
+L 343.296 307.584 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 57.6 41.472 
+L 343.296 41.472 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_15">
+    <!-- LINE 4 등급표 -->
+    <g transform="translate(164.553 35.472) scale(0.12 -0.12)">
+     <defs>
+      <path id="PretendardGOV-Regular-4e" d="M 4094 0 
+L 3556 0 
+L 1106 3525 
+L 1063 3525 
+L 1063 0 
+L 500 0 
+L 500 4525 
+L 1044 4525 
+L 3494 994 
+L 3538 994 
+L 3538 4525 
+L 4094 4525 
+L 4094 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="PretendardGOV-Regular-45" d="M 500 4525 
+L 3244 4525 
+L 3244 4025 
+L 1063 4025 
+L 1063 2513 
+L 3100 2513 
+L 3100 2019 
+L 1063 2019 
+L 1063 500 
+L 3275 500 
+L 3275 0 
+L 500 0 
+L 500 4525 
+z
+" transform="scale(0.015625)"/>
+      <path id="PretendardGOV-Regular-20" transform="scale(0.015625)"/>
+      <path id="PretendardGOV-Regular-b4f1" d="M 5294 1994 
+L 225 1994 
+L 225 2406 
+L 5294 2406 
+L 5294 1994 
+z
+M 4700 2938 
+L 869 2938 
+L 869 4825 
+L 4663 4825 
+L 4663 4413 
+L 1350 4413 
+L 1350 3338 
+L 4700 3338 
+L 4700 2938 
+z
+M 2756 1506 
+Q 3350 1506 3779 1389 
+Q 4209 1272 4437 1047 
+Q 4666 822 4669 506 
+Q 4666 188 4437 -37 
+Q 4209 -263 3781 -378 
+Q 3353 -494 2756 -494 
+Q 2156 -494 1725 -378 
+Q 1294 -263 1066 -37 
+Q 838 188 838 506 
+Q 838 822 1066 1047 
+Q 1294 1272 1725 1389 
+Q 2156 1506 2756 1506 
+z
+M 2756 1125 
+Q 2309 1122 1990 1048 
+Q 1672 975 1503 836 
+Q 1334 697 1338 506 
+Q 1334 213 1707 53 
+Q 2081 -106 2756 -106 
+Q 3422 -106 3798 53 
+Q 4175 213 4175 506 
+Q 4175 697 4004 836 
+Q 3834 975 3515 1048 
+Q 3197 1122 2756 1125 
+z
+" transform="scale(0.015625)"/>
+      <path id="PretendardGOV-Regular-ae09" d="M 1375 1131 
+L 4156 1131 
+L 4156 1869 
+L 4644 1869 
+L 4644 -431 
+L 888 -431 
+L 888 1869 
+L 1375 1869 
+L 1375 1131 
+z
+M 4156 -31 
+L 4156 744 
+L 1375 744 
+L 1375 -31 
+L 4156 -31 
+z
+M 4644 4388 
+Q 4644 3947 4617 3590 
+Q 4591 3234 4491 2775 
+L 5313 2775 
+L 5313 2369 
+L 225 2369 
+L 225 2775 
+L 4009 2775 
+Q 4106 3231 4131 3587 
+Q 4156 3944 4156 4388 
+L 869 4388 
+L 869 4794 
+L 4644 4794 
+L 4644 4388 
+z
+" transform="scale(0.015625)"/>
+      <path id="PretendardGOV-Regular-d45c" d="M 5313 175 
+L 225 175 
+L 225 581 
+L 1644 581 
+L 1644 1906 
+L 688 1906 
+L 688 2313 
+L 1556 2313 
+L 1556 4125 
+L 675 4125 
+L 675 4531 
+L 4825 4531 
+L 4825 4125 
+L 3944 4125 
+L 3944 2313 
+L 4813 2313 
+L 4813 1906 
+L 3856 1906 
+L 3856 581 
+L 5313 581 
+L 5313 175 
+z
+M 3463 2313 
+L 3463 4125 
+L 2044 4125 
+L 2044 2313 
+L 3463 2313 
+z
+M 3369 581 
+L 3369 1906 
+L 2138 1906 
+L 2138 581 
+L 3369 581 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#PretendardGOV-Regular-4c"/>
+     <use xlink:href="#PretendardGOV-Regular-49" x="53.320312"/>
+     <use xlink:href="#PretendardGOV-Regular-4e" x="95.214844"/>
+     <use xlink:href="#PretendardGOV-Regular-45" x="166.992188"/>
+     <use xlink:href="#PretendardGOV-Regular-20" x="223.730469"/>
+     <use xlink:href="#PretendardGOV-Regular-34" x="252.539062"/>
+     <use xlink:href="#PretendardGOV-Regular-20" x="310.15625"/>
+     <use xlink:href="#PretendardGOV-Regular-b4f1" x="338.964844"/>
+     <use xlink:href="#PretendardGOV-Regular-ae09" x="425.390625"/>
+     <use xlink:href="#PretendardGOV-Regular-d45c" x="511.816406"/>
+    </g>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_7">
+    <path d="M 361.152 307.584 
+L 374.4576 307.584 
+L 374.4576 41.472 
+L 361.152 41.472 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAABIAAAFxCAYAAAB+2fgXAAACIUlEQVR4nO2bwY3DMAwEKVl9pLzr/x/LKUH3GBiDBV3AwrNLUpSDjL/6PAU86xqETNVkZKrWNZhXarR/CTFKpEeYkA2NUhKiBaemQ+vBdn6C42+08+NDU1Y2hDZ18Q/I7TUhIRKN0cI8AvcjKrUxIY+M8VMeQXWkjN+W2sxtWnDUxno0oYKMblpdathJKzxFqIIMblpu0YK2EeVxZEMLTm1cFyVEDTahR7mVTV1qhGjcSatDs6VmjJ+7rjMTUljZwakJ0WxLxBrTVtkFvdEq4RKBocWm5luPwYJsj94SUjZtbGrGU0R2QAorm/NItx4nzyMqNR9aDQqNEnogIaVHtg/j2DyKTk0mxHlEpSZEo3pNiMal5luPbQUZHb8OrZv2LGREg1J7kP9BVa0NKYEeUUIbUgLRILONaJSQEA1LDZEBu5/ziEoNMxtEo4SMqUGVTXW/siAhoV22ygaXCEbIiJacmg3thmYtN9hunUccGmS2EU2YGiR0Q0rK1BAd52DDLn46tNzUNpUa5ZGyaanK1g224MrGUvMdR9iobbT3hII9arTzs765aFxqPbNfEyLRmGu2Eg1Kjep+IZpOKNgj8BMrdl33oWE/+ejQsOv6Q32GFv6YyXlkQ+OaVpcahuZLjStIbrAhOkqPdPF3074nZCzI3kaOQs++ESGyspk3MqLduWi21JI92rlowtS6ad8UYvbjYI/IJYJCg1qkUzs/PrQfnXtohGnQHecAAAAASUVORK5CYII=" id="imaged3b573ff23" transform="scale(1 -1) translate(0 -265.68)" x="361.44" y="-41.76" width="12.96" height="265.68"/>
+   <g id="matplotlib.axis_3"/>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_7">
+     <g id="line2d_13">
+      <defs>
+       <path id="m6919004594" d="M 0 0 
+L 3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m6919004594" x="374.4576" y="307.584" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_16">
+      <!-- 1.0 -->
+      <g transform="translate(381.4576 311.119156) scale(0.1 -0.1)">
+       <defs>
+        <path id="PretendardGOV-Regular-2e" d="M 919 -38 
+Q 809 -38 717 17 
+Q 625 72 570 165 
+Q 516 259 519 369 
+Q 516 475 570 567 
+Q 625 659 717 714 
+Q 809 769 919 769 
+Q 1025 769 1117 714 
+Q 1209 659 1264 567 
+Q 1319 475 1319 369 
+Q 1319 259 1264 165 
+Q 1209 72 1117 17 
+Q 1025 -38 919 -38 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#PretendardGOV-Regular-31"/>
+       <use xlink:href="#PretendardGOV-Regular-2e" x="57.617188"/>
+       <use xlink:href="#PretendardGOV-Regular-30" x="86.425781"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m6919004594" x="374.4576" y="274.32" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_17">
+      <!-- 1.5 -->
+      <g transform="translate(381.4576 277.855156) scale(0.1 -0.1)">
+       <defs>
+        <path id="PretendardGOV-Regular-35" d="M 1888 -63 
+Q 1500 -63 1183 92 
+Q 866 247 677 520 
+Q 488 794 469 1138 
+L 1025 1138 
+Q 1041 938 1158 777 
+Q 1275 616 1467 523 
+Q 1659 431 1888 431 
+Q 2159 431 2373 561 
+Q 2588 691 2709 919 
+Q 2831 1147 2831 1431 
+Q 2831 1725 2704 1956 
+Q 2578 2188 2354 2320 
+Q 2131 2453 1850 2456 
+Q 1572 2463 1373 2366 
+Q 1175 2269 1063 2050 
+L 513 2050 
+L 813 4525 
+L 3175 4525 
+L 3175 4025 
+L 1294 4025 
+L 1138 2700 
+L 1188 2700 
+Q 1309 2816 1514 2889 
+Q 1719 2963 1944 2963 
+Q 2350 2963 2678 2766 
+Q 3006 2569 3193 2222 
+Q 3381 1875 3381 1444 
+Q 3381 1016 3187 672 
+Q 2994 328 2653 132 
+Q 2313 -63 1888 -63 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#PretendardGOV-Regular-31"/>
+       <use xlink:href="#PretendardGOV-Regular-2e" x="57.617188"/>
+       <use xlink:href="#PretendardGOV-Regular-35" x="86.425781"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_15">
+      <g>
+       <use xlink:href="#m6919004594" x="374.4576" y="241.056" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_18">
+      <!-- 2.0 -->
+      <g transform="translate(381.4576 244.591156) scale(0.1 -0.1)">
+       <use xlink:href="#PretendardGOV-Regular-32"/>
+       <use xlink:href="#PretendardGOV-Regular-2e" x="57.617188"/>
+       <use xlink:href="#PretendardGOV-Regular-30" x="86.425781"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m6919004594" x="374.4576" y="207.792" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_19">
+      <!-- 2.5 -->
+      <g transform="translate(381.4576 211.327156) scale(0.1 -0.1)">
+       <use xlink:href="#PretendardGOV-Regular-32"/>
+       <use xlink:href="#PretendardGOV-Regular-2e" x="57.617188"/>
+       <use xlink:href="#PretendardGOV-Regular-35" x="86.425781"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_17">
+      <g>
+       <use xlink:href="#m6919004594" x="374.4576" y="174.528" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_20">
+      <!-- 3.0 -->
+      <g transform="translate(381.4576 178.063156) scale(0.1 -0.1)">
+       <defs>
+        <path id="PretendardGOV-Regular-33" d="M 900 1144 
+Q 922 922 1048 762 
+Q 1175 603 1381 520 
+Q 1588 438 1844 438 
+Q 2119 438 2336 534 
+Q 2553 631 2678 823 
+Q 2803 1016 2800 1288 
+Q 2803 1547 2689 1755 
+Q 2575 1963 2325 2088 
+Q 2075 2213 1688 2213 
+L 1319 2213 
+L 1319 2656 
+L 2425 3988 
+L 2425 4025 
+L 544 4025 
+L 544 4525 
+L 3181 4525 
+L 3181 4119 
+L 2000 2681 
+L 2000 2644 
+Q 2384 2622 2693 2439 
+Q 3003 2256 3179 1953 
+Q 3356 1650 3356 1281 
+Q 3356 897 3161 590 
+Q 2966 284 2619 110 
+Q 2272 -63 1831 -63 
+Q 1428 -63 1093 82 
+Q 759 228 554 501 
+Q 350 775 325 1144 
+L 900 1144 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#PretendardGOV-Regular-33"/>
+       <use xlink:href="#PretendardGOV-Regular-2e" x="57.617188"/>
+       <use xlink:href="#PretendardGOV-Regular-30" x="86.425781"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#m6919004594" x="374.4576" y="141.264" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_21">
+      <!-- 3.5 -->
+      <g transform="translate(381.4576 144.799156) scale(0.1 -0.1)">
+       <use xlink:href="#PretendardGOV-Regular-33"/>
+       <use xlink:href="#PretendardGOV-Regular-2e" x="57.617188"/>
+       <use xlink:href="#PretendardGOV-Regular-35" x="86.425781"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_13">
+     <g id="line2d_19">
+      <g>
+       <use xlink:href="#m6919004594" x="374.4576" y="108" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_22">
+      <!-- 4.0 -->
+      <g transform="translate(381.4576 111.535156) scale(0.1 -0.1)">
+       <use xlink:href="#PretendardGOV-Regular-34"/>
+       <use xlink:href="#PretendardGOV-Regular-2e" x="57.617188"/>
+       <use xlink:href="#PretendardGOV-Regular-30" x="86.425781"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_14">
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#m6919004594" x="374.4576" y="74.736" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_23">
+      <!-- 4.5 -->
+      <g transform="translate(381.4576 78.271156) scale(0.1 -0.1)">
+       <use xlink:href="#PretendardGOV-Regular-34"/>
+       <use xlink:href="#PretendardGOV-Regular-2e" x="57.617188"/>
+       <use xlink:href="#PretendardGOV-Regular-35" x="86.425781"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_15">
+     <g id="line2d_21">
+      <g>
+       <use xlink:href="#m6919004594" x="374.4576" y="41.472" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_24">
+      <!-- 5.0 -->
+      <g transform="translate(381.4576 45.007156) scale(0.1 -0.1)">
+       <use xlink:href="#PretendardGOV-Regular-35"/>
+       <use xlink:href="#PretendardGOV-Regular-2e" x="57.617188"/>
+       <use xlink:href="#PretendardGOV-Regular-30" x="86.425781"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_25">
+     <!-- GRADE -->
+     <g transform="translate(406.934163 190.607687) rotate(-90) scale(0.1 -0.1)">
+      <defs>
+       <path id="PretendardGOV-Regular-47" d="M 3588 3113 
+Q 3438 3559 3108 3811 
+Q 2778 4063 2306 4063 
+Q 1900 4063 1573 3853 
+Q 1247 3644 1058 3237 
+Q 869 2831 869 2263 
+Q 869 1694 1059 1287 
+Q 1250 881 1584 672 
+Q 1919 463 2344 463 
+Q 2725 463 3017 623 
+Q 3309 784 3473 1082 
+Q 3638 1381 3644 1775 
+L 2463 1775 
+L 2463 2269 
+L 4194 2269 
+L 4194 1781 
+Q 4194 1228 3956 809 
+Q 3719 391 3298 164 
+Q 2878 -63 2344 -63 
+Q 1744 -63 1286 220 
+Q 828 503 576 1029 
+Q 325 1556 325 2263 
+Q 325 2966 576 3492 
+Q 828 4019 1278 4303 
+Q 1728 4588 2306 4588 
+Q 2778 4588 3172 4402 
+Q 3566 4216 3825 3881 
+Q 4084 3547 4169 3113 
+L 3588 3113 
+z
+" transform="scale(0.015625)"/>
+       <path id="PretendardGOV-Regular-52" d="M 500 4525 
+L 2038 4525 
+Q 2553 4525 2900 4348 
+Q 3247 4172 3414 3858 
+Q 3581 3544 3581 3131 
+Q 3581 2672 3370 2340 
+Q 3159 2009 2738 1863 
+L 3756 0 
+L 3100 0 
+L 2153 1759 
+L 2044 1756 
+L 1063 1756 
+L 1063 0 
+L 500 0 
+L 500 4525 
+z
+M 2019 2269 
+Q 2541 2269 2783 2491 
+Q 3025 2713 3025 3131 
+Q 3025 3556 2781 3790 
+Q 2538 4025 2013 4025 
+L 1063 4025 
+L 1063 2269 
+L 2019 2269 
+z
+" transform="scale(0.015625)"/>
+       <path id="PretendardGOV-Regular-41" d="M 113 0 
+L 1769 4525 
+L 2363 4525 
+L 4019 0 
+L 3425 0 
+L 2972 1275 
+L 1153 1275 
+L 700 0 
+L 113 0 
+z
+M 2800 1769 
+L 2081 3794 
+L 2044 3794 
+L 1325 1769 
+L 2800 1769 
+z
+" transform="scale(0.015625)"/>
+       <path id="PretendardGOV-Regular-44" d="M 500 0 
+L 500 4525 
+L 1963 4525 
+Q 2616 4525 3089 4254 
+Q 3563 3984 3813 3476 
+Q 4063 2969 4063 2269 
+Q 4063 1563 3809 1053 
+Q 3556 544 3072 272 
+Q 2588 0 1906 0 
+L 500 0 
+z
+M 1869 500 
+Q 2688 500 3100 962 
+Q 3513 1425 3513 2269 
+Q 3513 3103 3109 3564 
+Q 2706 4025 1925 4025 
+L 1063 4025 
+L 1063 500 
+L 1869 500 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#PretendardGOV-Regular-47"/>
+      <use xlink:href="#PretendardGOV-Regular-52" x="70.898438"/>
+      <use xlink:href="#PretendardGOV-Regular-41" x="131.738281"/>
+      <use xlink:href="#PretendardGOV-Regular-44" x="196.289062"/>
+      <use xlink:href="#PretendardGOV-Regular-45" x="264.84375"/>
+     </g>
+    </g>
+   </g>
+   <g id="LineCollection_1"/>
+   <g id="patch_8">
+    <path d="M 361.152 307.584 
+L 367.8048 307.584 
+L 374.4576 307.584 
+L 374.4576 41.472 
+L 367.8048 41.472 
+L 361.152 41.472 
+L 361.152 307.584 
+z
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pfbe8fad1ea">
+   <rect x="57.6" y="41.472" width="285.696" height="266.112"/>
+  </clipPath>
+ </defs>
+</svg>

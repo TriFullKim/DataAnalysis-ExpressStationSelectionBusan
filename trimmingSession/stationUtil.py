@@ -76,6 +76,19 @@ def line_range(sCode_x):
         assert False, "MUST sCode_x < 500 (4호선까지 존재 합니다.)"
 
 
+def line_num_to_range(line_num: int):
+    path = []
+    if line_num == 1:
+        path = [*range(95, 134 + 1)]
+    elif line_num == 2:
+        path = [*range(201, 243 + 1)]
+    elif line_num == 3:
+        path = [*range(301, 317 + 1)]
+    elif line_num == 4:
+        path = [*range(401, 414 + 1)]
+    return path
+
+
 # 시작점(stationCode_x) 과 끝점(stationCode_y) 사이에 필수적으로 환승이 필요한지 확인하는 함수
 def isExchange(sCode_x, sCode_y):
     """경로에서 환승이 일어 났는지 확인하는 함수"""

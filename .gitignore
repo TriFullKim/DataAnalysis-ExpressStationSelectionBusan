@@ -14,5 +14,9 @@ database/*
 #Memo
 memo/*
 
-#csv
+#data
 **/*.csv
+**/*.pickle
+**/*.pkl
+**/*.json
+**/*.dat
